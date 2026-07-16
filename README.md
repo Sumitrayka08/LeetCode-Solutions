@@ -8,6 +8,7 @@ My daily LeetCode solutions in Java.
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Sumitrayka08/LeetCode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0053-maximum-subarray](https://github.com/Sumitrayka08/LeetCode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
+| [0169-majority-element](https://github.com/Sumitrayka08/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -20,8 +21,21 @@ My daily LeetCode solutions in Java.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Sumitrayka08/LeetCode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
+| [0169-majority-element](https://github.com/Sumitrayka08/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Sumitrayka08/LeetCode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/Sumitrayka08/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/Sumitrayka08/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/Sumitrayka08/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
