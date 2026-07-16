@@ -8,11 +8,13 @@ My daily LeetCode solutions in Java.
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Sumitrayka08/LeetCode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0053-maximum-subarray](https://github.com/Sumitrayka08/LeetCode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
+| [0088-merge-sorted-array](https://github.com/Sumitrayka08/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/Sumitrayka08/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Sumitrayka08/LeetCode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
+| [0088-merge-sorted-array](https://github.com/Sumitrayka08/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -33,6 +35,7 @@ My daily LeetCode solutions in Java.
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/Sumitrayka08/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/Sumitrayka08/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
