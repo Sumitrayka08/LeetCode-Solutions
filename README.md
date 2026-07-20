@@ -12,6 +12,7 @@ My daily LeetCode solutions in Java.
 | [0088-merge-sorted-array](https://github.com/Sumitrayka08/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/Sumitrayka08/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/Sumitrayka08/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
+| [0283-move-zeroes](https://github.com/Sumitrayka08/LeetCode-Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Sumitrayka08/LeetCode-Solutions/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -20,6 +21,7 @@ My daily LeetCode solutions in Java.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sumitrayka08/LeetCode-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0088-merge-sorted-array](https://github.com/Sumitrayka08/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0189-rotate-array](https://github.com/Sumitrayka08/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
+| [0283-move-zeroes](https://github.com/Sumitrayka08/LeetCode-Solutions/tree/main/0283-move-zeroes/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
