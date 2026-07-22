@@ -14,6 +14,7 @@ My daily LeetCode solutions in Java.
 | [0189-rotate-array](https://github.com/Sumitrayka08/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/Sumitrayka08/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Sumitrayka08/LeetCode-Solutions/tree/main/0283-move-zeroes/) | Easy |
+| [0485-max-consecutive-ones](https://github.com/Sumitrayka08/LeetCode-Solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Sumitrayka08/LeetCode-Solutions/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Sumitrayka08/LeetCode-Solutions/tree/main/1929-concatenation-of-array/) | Easy |
 ## Two Pointers
