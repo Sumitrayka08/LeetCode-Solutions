@@ -10,6 +10,7 @@ My daily LeetCode solutions in Java.
 | [0011-container-with-most-water](https://github.com/Sumitrayka08/LeetCode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sumitrayka08/LeetCode-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0053-maximum-subarray](https://github.com/Sumitrayka08/LeetCode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
+| [0075-sort-colors](https://github.com/Sumitrayka08/LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Sumitrayka08/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/Sumitrayka08/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/Sumitrayka08/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
@@ -23,6 +24,7 @@ My daily LeetCode solutions in Java.
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Sumitrayka08/LeetCode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sumitrayka08/LeetCode-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0075-sort-colors](https://github.com/Sumitrayka08/LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Sumitrayka08/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0189-rotate-array](https://github.com/Sumitrayka08/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/Sumitrayka08/LeetCode-Solutions/tree/main/0283-move-zeroes/) | Easy |
@@ -48,6 +50,7 @@ My daily LeetCode solutions in Java.
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/Sumitrayka08/LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Sumitrayka08/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/Sumitrayka08/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/Sumitrayka08/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
