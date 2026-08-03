@@ -9,6 +9,7 @@ My daily LeetCode solutions in Java.
 | [0001-two-sum](https://github.com/Sumitrayka08/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/Sumitrayka08/LeetCode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sumitrayka08/LeetCode-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0048-rotate-image](https://github.com/Sumitrayka08/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/Sumitrayka08/LeetCode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0075-sort-colors](https://github.com/Sumitrayka08/LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Sumitrayka08/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
@@ -67,6 +68,7 @@ My daily LeetCode solutions in Java.
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/Sumitrayka08/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/Sumitrayka08/LeetCode-Solutions/tree/main/0050-powx-n/) | Medium |
 | [0189-rotate-array](https://github.com/Sumitrayka08/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/Sumitrayka08/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
@@ -91,4 +93,8 @@ My daily LeetCode solutions in Java.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Sumitrayka08/LeetCode-Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0048-rotate-image](https://github.com/Sumitrayka08/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
 <!---LeetCode Topics End-->
