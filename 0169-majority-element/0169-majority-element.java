@@ -23,36 +23,22 @@ class Solution {
 
 
        // Phase 2: Verify the candidate
-       count = 0;
+       int count1 = 0;
        for (int i = 0; i < n; i++) {
            if (nums[i] == majority) {
-               count++;
+               count1++;
            }
        }
 
 
        // Return the element if it occurs more than n/2 times
-       if (count > n / 2)
+       if (count1 > n / 2)
            return majority;
        else
            return -1; // No majority element found
    }
-
-
-   public static void main(String[] args) {
-       // Hardcoded input array
-       int[] nums = {2, 2, 1, 1, 2, 2, 2};
-
-
-       // Create Solution object and call the method
-       Solution sol = new Solution();
-       int result = sol.majorityElement(nums);
-
-
-       // Print result
-       if (result != -1)
-           System.out.println("Majority element is: " + result);
-       else
-           System.out.println("No majority element found.");
-   }
 }
+
+
+
+ 
