@@ -1,20 +1,26 @@
-import java.util.HashMap;
+import java.util.*;
 
 class Solution {
+
     public int[] twoSum(int[] nums, int target) {
-        HashMap<Integer, Integer> map = new HashMap<>();
-        
-        for (int i = 0; i < nums.length; i++) {
-            int complement = target - nums[i];
-            
-            if (map.containsKey(complement)) {
-                return new int[] { map.get(complement), i };
+
+        HashMap<Integer, Integer> mpp = new HashMap<>();
+
+        int n = nums.length;
+
+        for (int i = 0; i < n; i++) {
+
+            int num = nums[i];
+
+            int moreNeeded = target - num;
+
+            if (mpp.containsKey(moreNeeded)) {
+                return new int[]{mpp.get(moreNeeded), i};
             }
-            
-            map.put(nums[i], i);
+
+            mpp.put(num, i);
         }
-        
-        // Since the problem guarantees one solution, we don't need extra handling
-        return new int[] {}; 
+
+        return new int[]{-1, -1};
     }
 }
