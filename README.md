@@ -16,6 +16,7 @@ My daily LeetCode solutions in Java.
 | [0053-maximum-subarray](https://github.com/Sumitrayka08/LeetCode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/Sumitrayka08/LeetCode-Solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/Sumitrayka08/LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Sumitrayka08/LeetCode-Solutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Sumitrayka08/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sumitrayka08/LeetCode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/Sumitrayka08/LeetCode-Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -93,6 +94,7 @@ My daily LeetCode solutions in Java.
 | [0033-search-in-rotated-sorted-array](https://github.com/Sumitrayka08/LeetCode-Solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sumitrayka08/LeetCode-Solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Sumitrayka08/LeetCode-Solutions/tree/main/0035-search-insert-position/) | Easy |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Sumitrayka08/LeetCode-Solutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0268-missing-number](https://github.com/Sumitrayka08/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0704-binary-search](https://github.com/Sumitrayka08/LeetCode-Solutions/tree/main/0704-binary-search/) | Easy |
 ## Bit Manipulation
